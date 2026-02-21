@@ -36,13 +36,13 @@ A vívóidő egy egyszerű akció kivitelezésének időtartama.
 ##### GEN-3.2.1  
 Támadó akciók (a támadás, a riposzt (visszaszúrás/visszavágás) és a kontrariposzt)  
 
-##### GEN-3.2.1.1  
+###### GEN-3.2.1.1  
 Támadás - az a kitörést vagy a lerohanást, vagy más fegyverspecifikus támadó lábmunka megindítását megelőző, kezdeményező támadó akció, amelyet a kar nyújtásával és az ellenfél érvényes találati felületének állandó fenyegetésével hajtanak végre. Nem minősül a támadás részének az előkészítő akciók és a kéz-, vagy fegyver olyan mozgásai, amelyek nem fenyegetik állandóan a találati felületet.  
 
-##### GEN-3.2.1.2  
+###### GEN-3.2.1.2  
 Riposzt (visszaszúrás, -vágás) - annak a vívónak támadó akciója, aki a támadást kivédte.  
 
-##### GEN-3.2.1.3  
+###### GEN-3.2.1.3  
 Kontrariposzt (ellen-visszaszúrás, -vágás) - annak a vívónak a támadó akciója, aki a visszatámadást kivédte.  
 
 ##### GEN-3.2.2  
@@ -57,29 +57,29 @@ A védekező akciókat védéseknek (parád) nevezzük.
 ##### GEN-3.2.3  
 Támadás  
 
-##### GEN-3.2.3.1  
+###### GEN-3.2.3.1  
 Egyszerű az akció, ha azt egyetlen mozdulattal végzik;  
   - akár közvetlenül (ugyanabban a vonalban),  
   - akár közvetve (másik vonalban).  
 
-##### GEN-3.2.3.2  
+###### GEN-3.2.3.2  
 Összetett az akció, ha azt több mozdulattal hajtják végre  
 
 ##### GEN-3.2.4  
 Riposzt (visszaszúrás, -vágás)  
 A visszaszúrás (-vágás) lehet azonnali vagy késleltetett, amely az akció jellegétől és sebességétől függ. A riposzt lehet:  
 
-##### GEN-3.2.4.1  
+###### GEN-3.2.4.1  
   - Egyszerű, közvetlen (direkt)  
   - Direkt riposzt: anélkül találja el az ellenfelet, hogy azt a vonalat elhagyná, amelyben a védés történt.  
   - Kötött riposzt: a védés után, a pengén végigcsúszva találja el az ellenfelet.  
 
-##### GEN-3.2.4.2  
+###### GEN-3.2.4.2  
 Egyszerű közvetett (indirekt)  
   - Kerülő  visszaszúrás (-vágás): az ellenfelet az ellenkező vonalban találja el, mint amelyben védett. (Megkerülve az ellenfél pengéjét alul, ha a felső vonalban, illetve felül, ha az alsó vonalban védett.)  
   - Dobott riposzt (coupé): az ellenfelet az ellenkező vonalban találja, mint amelyben védett (a pengével minden esetben megkerülve az ellenfél pengéjének hegyét).  
 
-##### GEN-3.2.4.3  
+###### GEN-3.2.4.3  
 Összetett riposzt  
   - A körző-riposzt (en doublant): az ellenfelet az ellenkező vonalban találja, mint amelyben védett, de az ellenfél pengéje körül leírt teljes körvonal elvégzése után.  
   - Riposzt "egy-kettő"-vel: az ellenfelet ugyanabban a vonalban találja, amelyben az védett, de csak azt követően, hogy az ellenkező vonalban is volt, az ellenfél pengéjét megkerülve;  
@@ -90,28 +90,28 @@ Ellentámadások
 Az ellentámadások támadó vagy támadó-védekező akciók, amelyeket az ellenfél támadádó  
 akciója közben hajtanak végre.  
 
-##### GEN-3.2.5.1  
+###### GEN-3.2.5.1  
 Közbetámadás: a támadás közben végrehajtott ellentámadás.  
 
-##### GEN-3.2.5.2  
+###### GEN-3.2.5.2  
 Kizáró közbetámadás: olyan ellentámadás, melyet annak a vonalnak a lezárásával hajtanak végre, amelyben a támadásnak befejeződik.  
 
-##### GEN-3.2.5.3  
+###### GEN-3.2.5.3  
 Vívóidőn belül végrehajtott közbetámadás: a támadó ellenfél pillanatnyi habozása, csele, vagy rosszul kivitelezett támadása pillanatában végrehajtott közbetámadás. A 4.a--Hosszúkard-VOR esetében a megkezdett támadás előnyt élvez, így a közbetámadás akkor tekinthető sikeresnek, ha a egyértelműen tempóban történik (a találat a támadás végső mozzanatának megkezdése előtt érkezik), vagy a támadó egyáltalán nem talál.  
 
 ##### GEN-3.2.6  
 Egyéb támadó akciók - A kezdeti támadást követő újabb támadó akció.  
 
-##### GEN-3.2.6.1  
+###### GEN-3.2.6.1  
 Ismétlés (rimessza): Egyszerű azonnali támadó akció, az ellenfél védése vagy kihátrálása után a kar visszahúzása nélkül, abban az esetben, ha az ellenfél riposzt nélkül megszünteti a pengeérintkezést vagy a riposztja elkésett vagy indirekt, illetve ha összetett visszatámadást hajt végre.  
 
-##### GEN-3.2.6.2  
+###### GEN-3.2.6.2  
 Kettőzés (redoublement): Új, egyszerű vagy összetett akció, olyan ellenfél ellen, akinek védése után a riposzt elmaradt, vagy aki az első akciót egyszerűen hátrálással, vagy elhajlással kerülte el.  
 
-##### GEN-3.2.6.3  
+###### GEN-3.2.6.3  
 Megismételt támadás (reprise d’attaque): Új támadás, amelyet azonnal a vívóállásba való visszatérés után hajtanak végre.  
 
-##### GEN-3.2.6.4  
+###### GEN-3.2.6.4  
 Kontratempó (contre temps): A támadó által az ellenfél közbetámadása ellen végrehajtott akció.  
 
 ##### Védekező akciók  
@@ -163,112 +163,112 @@ A jelen szabályzatban és a mellékelt előírásokban (Lásd: felszerelés sza
 ##### GEN-5.2.1  
 #### Fejvédelem  
 
-##### GEN-5.2.1.1  
+###### GEN-5.2.1.1  
 Sérülésmentes, FIE által jóváhagyott fejvéd (CE level 2, 1600N ellenállással), kötelező.  
 
-##### GEN-5.2.1.2  
+###### GEN-5.2.1.2  
 A fej hátulját és a nyaki csigolyákat védő, HEMA specifikus, a fejvéddel együtt működő tarkóvédő, kötelező.  
 
-##### GEN-5.2.1.3  
+###### GEN-5.2.1.3  
 A gégét védő, merev vagy félmerev, vastag torokvédő kötelező.  
 
-##### GEN-5.2.1.4  
+###### GEN-5.2.1.4  
 A fejvéd szakálla nem gyűrődhet fel.  
 
-##### GEN-5.2.1.5  
+###### GEN-5.2.1.5  
 Komplett fejvédelem (fejvéd, tarkóvédő, torokvédő) viselése esetén, ha a vívó a fejét bármilyen szokványos irányban elfordítja, nem maradhat takaratlan bőrfelülete a fején és a nyakán.  
 
 ##### GEN-5.2.2  
 #### Kéz-, kar- és testvédelem  
 
-##### GEN-5.2.2.1  
+###### GEN-5.2.2.1  
 Kizárólag olyan kesztyűk használata megengedett, amiket speciálisan HEMA versenyekhez fejlesztettek ki (pl. Sparring Gloves), vagy minden speciális követelményt kielégítenek. Tilos olyan kesztyűk használata, amelyek bármilyen fém alkatrészt tartalmaznak (kivéve a megerősítő szerelvényként, mint a  
 Sparring Gloves kesztyűkön a gumiszalag átvezetésénél használt ringlik).  
 
-##### GEN-5.2.2.2  
+###### GEN-5.2.2.2  
 A versenyen használt kesztyűk esetében a tenyeret nem kell, hogy megerősített réteg borítsa, de a teljes tenyér fedett kell legyen, erre elégséges  
 egy egyszerű textil kesztyű is.  
 
-##### GEN-5.2.2.3  
+###### GEN-5.2.2.3  
 A felsőtestet sérülésmentes vívókabát vagy gambeson kell védje. Ez olyan anyagból készüljön, ami megakadályozza a penge behatolását és tompítja a testre mért ütést vagy szúrást. A vívókabátot a felszerelés ellenőrző személyzet és a bíró is ellenőrzi. A vívókabátnak a hónaljat is fednie kell. A vívókabátnak legalább 350N szúrásállósággal kell rendelkeznie. A vívókabát nyakát olyan módon kell kialakítani, hogy az a felfele csúszó pengét megfoghassa, erre célszerű visszahajtott, szúrásálló anyagot használni.  
 
-##### GEN-5.2.2.4  
+###### GEN-5.2.2.4  
 Minden versenyzőnek *kötelező merev mellkasvédelmet* használnia.  
 
-##### GEN-5.2.2.5  
+###### GEN-5.2.2.5  
 Amennyiben a kabát önmagában nem ad elegendő védelmet a könyöknek és az alkarnak, úgy kiegészítő merev védelem használata kötelező.  
 
-##### GEN-5.2.2.6  
+###### GEN-5.2.2.6  
 A test teljes felületét megfelelő védőruházat kell borítsa. Nem maradhat fedetlen bőrfelület a kesztyű és a kabát között sem.  
 
-##### GEN-5.2.2.7  
+###### GEN-5.2.2.7  
 A 800N ellenállású (FIE, egyoldalas) hónaljvédő ajánlott, kötelező bevezetését tervezzük.
 
 ##### GEN-5.2.3  
 #### Lábvédelem  
 
-##### GEN-5.2.3.1  
+###### GEN-5.2.3.1  
 A lágyékvédelem minden férfi és női versenyző számára kötelező.  
 
-##### GEN-5.2.3.2  
+###### GEN-5.2.3.2  
 A térdet és a sípcsontot szemből és oldalról merev védelemmel kell ellátni.  
 
-##### GEN-5.2.3.3  
+###### GEN-5.2.3.3  
 A csípőt a vívókabátnak, külön csípővédelemnek (pl. bélelt szoknya) vagy bélelt  
 nadrágnak kell védenie.  
 
-##### GEN-5.2.3.4  
+###### GEN-5.2.3.4  
 A combokat, a lágyékot és a csípőt legalább CE Level 1 (350N) minősítésű  
 nadrágnak, vagy más jóváhagyott szúrás álló anyagnak kell borítania.  
 
-##### GEN-5.2.3.5  
+###### GEN-5.2.3.5  
 A kabát és a nadrág között nem maradhat megfelelő védelemmel ellátatlan  
 testfelület. Javasolt a derékig érő vívónadrágok használata.  
 
-##### GEN-5.2.4  
+###### GEN-5.2.4  
 #### Fegyverek  
 Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állapotban, sorja és rozsdamentesen, a hegyéről minden korábbi bandázst eltávolítva kell prezentálnia. A fegyvereket a tornán erre kijelölt személyzet ellenőrzi az alábbiakban meghatározott feltételeknek megfelelően, megfelelőség esetén annak hegyét a torna erre kijelölt személyzet bebandázsolja. Az egyes pástok vezető bírói bármikor újra ellenőrizhetik a fegyvereket, azokat nagyobb sérülések esetén kitilthatják a versenyről. A vívó fegyverének kitiltása után a bíró legfeljebb 5 percnyi időt hagyhat annak cseréjére. Ha a vívó nem tud ennek eleet tenni a fenti időkereten belül, akkor nem foytathatja a versenyzést, kizárásra kerülhet a versenyszámból.  
 
 ##### GEN-5.2.5  
 #### Hosszúkard  
 
-##### GEN-5.2.5.1  
+###### GEN-5.2.5.1  
 Csakis egyenes pengéjű, európai típusú vívó/gyakorló kardok használata engedélyezett a tornán. A hosszúkardnak két élű pengéje, keresztvasa és markolatgombja kell legyen. A hosszúkardnak megfelelő minőségű acélból kell készülnie (fa, alumínium, műanyag kardok használata tilos), és az alábbi feltételeknek eleget kell tennie:  
 
-##### GEN-5.2.5.2  
+###### GEN-5.2.5.2  
 Súlyosan sérült pengék használata tilos, nem lehetnek hajlottak, töröttek, sorjásak vagy rozsdásak. Az éleknek tompának és lekerekítettnek kell lennie.  
 
-##### GEN-5.2.5.3  
+###### GEN-5.2.5.3  
 A penge töve lehet kiszélesedő, de minden élének, kiszögellésének lekerekítettnek és tompának kell lennie.  
 
-##### GEN-5.2.5.4  
+###### GEN-5.2.5.4  
 A keresztvasnak egyenesnek és lekerekített végűnek kell lennie. Kiegészítő védelem (például gyűrűk) nem lehetnek rajta.  
 
-##### GEN-5.2.5.5  
+###### GEN-5.2.5.5  
 A markolatgomb sima felületű kell legyen, és nem lehetnek rajta hegyes szegecsek, tüskék.  
 
-##### GEN-5.2.5.6  
+###### GEN-5.2.5.6  
 A penge rugalmasságát egy mérlegen végrehajtott kihajlás próbával ellenőrizzük. A penge rugalmasságának értékét a mérlegre állított és központosan nyomott penge által, a mérlegen maximálisan kijelzett kilogramm érték mutatja. A hosszúkard rugalmassága 9-16kg között kell mozogjon.
 
-##### GEN-5.2.5.7  
+###### GEN-5.2.5.7  
 A hegy minimum 1 cm széles kell legyen.  
 
-##### GEN-5.2.5.8  
+###### GEN-5.2.5.8  
 A penge hegyének tompának, lekerekítettnek, és vagy kiszélesedőnek vagy ívben visszahajlítottnak kell lennie, hogy a lehetséges átszúrást minél jobban megakadályozza.  
 
-##### GEN-5.2.5.9  
+###### GEN-5.2.5.9  
 A kard súlypontja nem lehet a keresztvas pengéhez közelebbi élétől 9cm-nél messzebb.  
 
-##### GEN-5.2.5.10  
+###### GEN-5.2.5.10  
 A kard hegyét a helyszínen színes, jól látható bandázzsal kell ellátni a könnyebb láthatóság érdekében.  
 
-##### GEN-5.2.5.11  
+###### GEN-5.2.5.11  
 A kard teljes hossza 120-140cm között kell mozogjon.  
 
-##### GEN-5.2.5.12  
+###### GEN-5.2.5.12  
 A kard teljes tömege férfi versenyszámban 1300-1800g között kell mozogjon.  
 
-##### GEN-5.2.5.13  
+###### GEN-5.2.5.13  
 A kard teljes tömege női versenyszámban 1100-1600g között kell mozogjon.  
 
 ##### GEN-5.2.6  
@@ -285,37 +285,37 @@ Kidolgozás alatt.
 ##### GEN-5.3.1  
 #### Védőfelszerelés  
 
-##### GEN-5.3.1.1  
+###### GEN-5.3.1.1  
 Sérülésmentes fejvéd (minimum CE level 1, 350N ellenállással), kötelező.  
 
-##### GEN-5.3.1.2  
+###### GEN-5.3.1.2  
 A gégét védő, merev vagy félmerev, vastag torokvédő kötelező.  
 
-##### GEN-5.3.1.3  
+###### GEN-5.3.1.3  
 A fejvéd szakálla nem gyűrődhet fel.  
 
-##### GEN-5.3.1.4  
+###### GEN-5.3.1.4  
 Minden női versenyzőnek kötelező merev mellkasvédelmet használnia. A férfiak esetében nem kötelező, de erősen ajánlott.  
 
-##### GEN-5.3.1.5  
+###### GEN-5.3.1.5  
 Legalább hoki, lacrosse vagy Red Dragon típusú, vagy ahhoz hasonló védelemmel ellátott párnázott kesztyű viselése kötelező.  
 
 ##### GEN-5.3.2  
 #### Párnázott fegyverek  
 
-##### GEN-5.3.2.1  
+###### GEN-5.3.2.1  
 Sérülésmentes.  
 
-##### GEN-5.3.2.2  
+###### GEN-5.3.2.2  
 Súlya ... - ... g között. (kidolgozás alatt)  
 
-##### GEN-5.3.2.3  
+###### GEN-5.3.2.3  
 Teljes hossza 120-140 cm között kell mozogjon.  
 
-##### GEN-5.3.2.4  
+###### GEN-5.3.2.4  
 Nem lehetnek rajta éles, sérülést okozó részek.  
 
-##### GEN-5.3.2.5  
+###### GEN-5.3.2.5  
 Fém szerelékkel rendelkező fegyverek használata tilos!   
 
 ## Vívás  
@@ -454,14 +454,14 @@ Az ellenfél pillanatnyilag hatástalanított pengéjének megfogása megengedet
 ##### GEN-6.7.4  
 Pontszerző birkózó akciók:  
 
-##### GEN-6.7.4.1  
+###### GEN-6.7.4.1  
 Földrevitelek és dobások után/során egyszerű és azonnali támadás a fegyverrel  
 
-##### GEN-6.7.4.2  
+###### GEN-6.7.4.2  
 Birkózásban fegyverrel vagy fegyver nélkül kontrollálva az ellenfelet: a bíró megítélhet pontot egy olyan akcióért amikor a fegyverrel végrehajtott akció következtében az egyik vívó mozgását, szabadulását passzívan megakadályozó helyzetbe kerül, amelyből jelentős ideig képtelen kitörni.   
 Ilyen helyzet előállhat fegyverrel vagy anélkül végrehajtott birkózófogásokból, amelyek a vívó mozgását megakadályozzák, és ezt a helyzetet jelentős ideig - addig, amikor a bíró saját hatáskörében úgy ítéli, hogy a dominancia követelményei teljesültek, és elhangzik az ‘Állj!’ parancs - fenn is tartják.  
 
-##### GEN-6.7.4.3  
+###### GEN-6.7.4.3  
 Dominancia/kontrollálás ítélet nem alkalmazható olyan helyzetekre, ahol az ellenfél ki tud törni a fogásból, és érvényes akciókat tud kezdeményezni, akkor sem, ha valamilyen aktív erőfeszítés eredményeképp a dominálni szándékozó fegyver továbbra is érinti az ellenfél találati felületét. A domináló akciók érvényességét a bíró saját hatáskörében ítéli meg.  
 
 ##### GEN-6.7.5  
@@ -488,10 +488,10 @@ Ugyanakkor, ha a mérkőzés testérintkezés miatt szakadt meg (és a közelhar
 ##### GEN-6.9.1  
 Ha az egyik versenyző mindkét lábfejével teljesen átlépi a küzdőtér valamelyik határvonalát,  
 
-##### GEN-6.9.1.1  
+###### GEN-6.9.1.1  
 a versenybírónak azonnal "állj!"-t kell kiáltania, és  
 
-##### GEN-6.9.1.2  
+###### GEN-6.9.1.2  
 meg kell semmisíteni mindent, ami a határvonal átlépése után történt.  
 
 ##### GEN-6.9.2  
@@ -503,10 +503,10 @@ Ha az egyik vívó a pást valmelyik határvona teljesen, tehát mindkét lábba
 ##### GEN-6.9.4  
 Ha a vívó valamelyik határvonalat teljesen, tehát mindkét lábbal túlhaladja (anélkül hogy a kilépés előtt érvényes találatot adott volna), a versenybíró a következőképpen jár el:  
 
-##### GEN-6.9.4.1  
+###### GEN-6.9.4.1  
 Az első kilépésnél a vívó figyelmeztetést kap.  
 
-##### GEN-6.9.4.2  
+###### GEN-6.9.4.2  
 Minden, a mérkőzésen belüli további esetben a küzdőtér határvonalát túlhaladó versenyző egy találattal büntetendő (ellenfele egy pontot kap), akkor is ha ténylegesen nem találták el.  
 
 ##### GEN-6.9.5  
@@ -529,7 +529,7 @@ A befejezett mérkőzés vagy váltás nem kezdhető újra, még akkor sem, ha f
 ##### GEN-6.10.4  
 Az egyéni csoportmérkőzések során egy mérkőzés akkor ér véget, ha a következő feltételek valamelyike teljesül:  
 
-##### GEN-6.10.4.1  
+###### GEN-6.10.4.1  
 az egyik vívó elérte a meghatározott találatszámot (afterblow esetében pontszámot):  
 
 ##### GEN-6.10.4.1.1  
@@ -551,7 +551,7 @@ Afterblow:
 ##### GEN-6.10.4.1.4  
 A pontozólapra a végső pontszám kerül (VN–Dn, N = a győztes pontjai, n = vesztes pontjai)  
 
-##### GEN-6.10.4.5  
+###### GEN-6.10.4.5  
 Vagy három percnyi tényleges vívóidő eltelt:  
 
 ##### GEN-6.10.4.5.1  
@@ -570,7 +570,7 @@ Ebben az esetben a jegyzőkönyvön a mérkőzés során ténylegesen elért tal
 ##### GEN-6.10.5  
 Az egyéni egyenes kieséses mérkőzés akkor ér véget, ha a következő feltételek valamelyike teljesül:  
 
-##### GEN-6.10.5.1  
+###### GEN-6.10.5.1  
 az egyik vívó elérte a meghatározott találatszámot (afterblow esetében pontszámot):  
 
 ##### GEN-6.10.5.1.1  
@@ -589,7 +589,7 @@ Afterblow:
             - amennyiben a pontkülönbség legalább 1, a mérkőzés véget ér;  
             - ha az állás ekkor döntetlen lett, döntő találatot kell elérniük az időkorlát végéig. Az egyenértékű egyidejű találatok nem vehetőek figyelembe (és a versenyzők azon a helyen maradnak a páston, amit korábban elfoglaltak)  
 
-##### GEN-6.10.5.2  
+###### GEN-6.10.5.2  
 vagy a meghatározott tényleges vívóidő eltelt:  
 A két, egyperces pihenőidőkkel elválasztott három perces periódus (6 percnyi tényleges vívóidő) eltelt.   
 
@@ -599,28 +599,28 @@ Vor esetén az első periódus vagy a három perces idő leteltéig vagy addig t
 ##### GEN-6.10.5.2.2  
 Ha a szabályokban foglalt idő leteltekor a pontszámok egyenlőek, a vívók győztes pontért küzdenek, maximum egy percig. A vívás újrakezdése előtt a bíró kisorsolja (pénzfeldobással), ki lesz a győztes abban az esetben, ha a pontok a plusz egy perc leteltével még mindig egyenlőek.   
 
-##### GEN-6.10.5.3  
+###### GEN-6.10.5.3  
 Az egyperces pihenőidő alatt egy, a mérkőzés előtt megnevezett személy mehet a versenyző közvetlen közelébe.  
 
-##### GEN-6.10.5.4  
+###### GEN-6.10.5.4  
 A pontozólapon feltüntetett pontszámok az összecsapás során ténylegesen megszerzett pontszámok.  
 
 ##### GEN-6.10.6  
 #### Csapatmérkőzések  
 
-##### GEN-6.10.6.1  
+###### GEN-6.10.6.1  
 A váltómérkőzés minden váltása 5 találatból áll (5, 10, 15, 20, stb.). Kivételesen egy váltás végződhet többel mint 5, 10, 15 stb., ha a vívó érvényes találatot ad a váltás végén és további büntetőtalálatot is jóváírnak neki: ebben az esetben mindkettőt figyelembe kell venni; a maximális idő egy-egy találkozóra 2 perc.  
 
-##### GEN-6.10.6.2  
+###### GEN-6.10.6.2  
 Az első két ellenfél addig vív, amíg egyikük 5 találatot el nem ér, a két perces időhatáron belül. A következő két versenyző a két perces időkeretben addig vív, amíg valamelyikük el nem éri a 10 találatot, majd így tovább minden további találkozónál váltásonként öt találatot hozzáadva.  
 
-##### GEN-6.10.6.3  
+###### GEN-6.10.6.3  
 Ha a két perc elteltével a fordulóra előírt pontszámot nem érték el, a következő két versenyző olyan állásnál folytatja a mérkőzést amilyennél az abbamaradt, és a fordulóra előírt maximális pontszámig vívnak a két perces időkeretben.  
 
-##### GEN-6.10.6.4  
+###### GEN-6.10.6.4  
 A győztes csapat az, amelyik eléri a maximális 45 találatot, vagy amelyik több találatot ért el az idő lejártakor.  
 
-##### GEN-6.10.6.5  
+###### GEN-6.10.6.5  
 Ha az utolsó fordulóra irányadó idő lejártakor pontegyenlőség áll fenn, az utolsó fordulót vívó versenyzők legfeljebb egy percen keresztül döntő találatért vívnak. A vívás újrakezdése előtt a versenybíró sorsolással eldönti, hogy ki lesz a győztes, ha az egyperces idő elteltével továbbra is pontegyenlőség áll fenn.  
 
 #### Időmérés  
@@ -871,27 +871,27 @@ akkor a versenybíróbíró nem alkalmaz sem figyelmeztetést, sem büntetést, 
 ##### GEN-7.7.4
 Amennyiben a páston való jelentkezéskor vagy a mérkőzés során megállapítást nyer, hogy a vívó felszerelése:  
 
-##### GEN-7.7.4.1
+###### GEN-7.7.4.1
 nélkülözi a hitelesítő jelzést. Ilyenkor a versenybíró:  
 - megsemmisíti a vétkes vívó által esetleg adott utolsó találatot,  
 - a második csoportba tartozó vétségekre vonatkozó büntetést  alkalmazza.  
-##### GEN-7.7.4.2
+###### GEN-7.7.4.2
 az előzetes hitelesítés során nem ellenőrzött részében hibás. Ebben az esetben a versenybíró:
 - a második csoportba tartozó vétségekre vonatkozó büntetést alkalmazza.  
-##### GEN-7.7.4.3
+###### GEN-7.7.4.3
 átment az előzetes hitelesítésen, de csalásra alkalmas  
-##### GEN-7.7.4.4
+###### GEN-7.7.4.4
 viseli a hitelesítő jelet, de az utánzat vagy máshonnan áthelyezett  
-##### GEN-7.7.4.5
+###### GEN-7.7.4.5
 olyan módon szándékosan (tehát nem véletlenből fakadóan vagy a mérkőzés során a körülmények következtében) módosított, hogy az nem menne át az előzetes hitelesítésen  
-##### GEN-7.7.4.7
+###### GEN-7.7.4.7
 elektronikus kommunikációt lehetővé tevő felszerelést tartalmaz, amely lehetővé teszi, hogy a vívó a páston kívüli személlyel kommunikáljon.  
 
-##### GEN-7.7.4.8
+###### GEN-7.7.4.8
 - A versenybíró a [GEN-7.7.4.3], [GEN-7.7.4.4], [GEN-7.7.4.5], és [GEN-7.7.4.7] esetekben esetekben nyomban elkobozza a felszerelést (fegyver, és amennyiben szükséges kabát, maszk, hónaljvédő, nadrág, stb.) és átadja a szolgálatban lévő szakembernek.  
 
 - A szakértő  tényeket megállapító véleményének beszerzését követően a [DIS-2.1.4]/[DIS-2.1.6] szakaszokban foglalt hátrányok alkalmazása nélkül:  
     - A [GEN-7.7.4.3], [GEN-7.7.4.4], [GEN-7.7.4.5], és [GEN-7.7.4.7] esetekben a negyedik csoportba tartozó vétségeknek megfelelő büntetést alkalmazza.  
 
-##### GEN-7.7.4.7  
+###### GEN-7.7.4.7  
 A versenybíró döntéségig az adott mérkőzés felfüggesztésre kerül, de a csoport további mérkőzései folytatódhatnak.  
