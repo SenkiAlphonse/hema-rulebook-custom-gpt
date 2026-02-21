@@ -121,8 +121,8 @@ A versenybíró döntéseivel kapcsolatos fellebbviteli szerv a Versenybírói B
 A Szervező Team-nek, a Versenyíró Bizottság küldötteinek illetve az MHS ellenőrnek hatásköre van minden olyan versenyző felett, aki részt vesz vagy jelen van az általuk irányított vívóversenyen.  
 - Szükség esetén saját kezdeményezésre bármilyen vitába beavatkozhat.  
 - A verseny folyamán fenn kell tartaniuk a rendet és fegyelmet is, és a szabályzatban előírt büntetéseket alkalmazhatják.  
-- A DT köteles a FIE központi irodájának továbbítja a versenyek folyamán hozott fegyelmi büntetéseket, valamint az esetleges megrovásra, eltiltásra illetve végleges eltiltásra, büntetés kiterjesztésére, valamint végső fellebbezésre vonatkozó kérelmeket.  
-- A DT felel a kiszabott büntetések végrehajtásáért, ha azok ellen fellebbezésnek nincs helye, vagy annak a végrehajtásra nincs halasztó hatálya.  
+- A Szervező Team köteles az MHS központi irodájának továbbítja a versenyek folyamán hozott fegyelmi büntetéseket, valamint az esetleges megrovásra, eltiltásra illetve végleges eltiltásra, büntetés kiterjesztésére, valamint végső fellebbezésre vonatkozó kérelmeket.  
+- A Szervező Team felel a kiszabott büntetések végrehajtásáért, ha azok ellen fellebbezésnek nincs helye, vagy annak a végrehajtásra nincs halasztó hatálya.  
 
 
 ##### DIS-2.1.9  
@@ -141,7 +141,7 @@ A SZT, a Versenyíró Bizottság küldötte, illetve az MHS ellenőr minden dön
 A különböző vétségeket különböző fajtájú büntetésekkel kell büntetni  
   
 
-##### DIS-3.1.1.1  
+###### DIS-3.1.1.1  
 Víváshoz kötődő büntetések, amelyek a vívás közben elkövetett vétségek esetén alkalmazhatóak:  
 
 - területvesztés  
@@ -149,7 +149,7 @@ Víváshoz kötődő büntetések, amelyek a vívás közben elkövetett vétsé
 - a ténylegesen nem kapott találat megítélése,  
 - a versenyszámból való kizárás.  
 
-##### DIS-3.1.1.2  
+###### DIS-3.1.1.2  
 Fegyelmi büntetések, amelyek a rend, a fegyelem és a sportszellem ellen elkövetett vétségek esetén alkalmazhatóak:  
 
 - Ténylegesen nem kapott találat odaítélése  
@@ -229,7 +229,7 @@ megrovásban kell részesíteni.
 #### Határozott idejű eltiltás  
 
 ##### DIS-3.3.9  
-Az eltiltott versenyző a határozott idejű eltiltás tartama alatt nem vehet részt a FIE hivatalos versenyein.  
+Az eltiltott versenyző a határozott idejű eltiltás tartama alatt nem vehet részt az MHS hivatalos versenyein.  
 
 ##### DIS-3.3.10  
 Az egyéb (nem versenyző) eltiltott személyek nem gyakorolhatják hivatásukat az eltiltás területi hatálya és időtartama alatt.  
@@ -267,17 +267,17 @@ Bizonyos vétségek maguk után vonhatják a vétkes vívó által adott talála
 ##### DIS-4.1.5  
 A büntetések a következők:  
 
-##### DIS-4.1.5.1  
+###### DIS-4.1.5.1  
 a figyelmeztetés, melyet a versenybíró SÁRGA LAP felmutatásával fejez ki, megjelölve a vétkes vívót. A vétkes vívó tudomásul veszi, hogy részéről bármilyen újabb vétség elkövetése büntető találatot von maga után.  
 
-##### DIS-4.1.5.2  
+###### DIS-4.1.5.2  
 a büntető találat, melyet PIROS LAP felmutatásával fejez ki a versenybíró, megjelölve a vétkes vívót. Ebben az esetben az ellenfél adott találataihoz egy találatot hozzá kell adni, ami ha az utolsó találatról van szó maga után vonhatja a mérkőzés elvesztését. Ezen felül minden PIROS LAP felmutatását csak újabb PIROS LAP vagy FEKETE LAP követheti a második vétség természetétől függően  
 
-##### DIS-4.1.5.3  
+###### DIS-4.1.5.3  
 a versenyszámból való kizárás, felfüggesztés a verseny további részéből  melyet a FEKETE LAP felmutatásával fejez ki a versenybíró, megjelölve a vétkes vívót.  
   
 
-##### DIS-4.1.5.4  
+###### DIS-4.1.5.4  
 a verseny helyszínéről való kitiltás (bármely, a verseny rendjét zavaró személy ellen  
 alkalmazható)  
 
@@ -290,7 +290,7 @@ Minden figyelmeztetést (SÁRGA LAP), büntető találatot (PIROS LAP) és kizá
 #### Hatáskör  
 
 ##### DIS-4.1.8  
-A versenyszabályzat különböző szakaszaiban található vétségek és büntetések összefoglalását a  táblázata tartalmazza. Ezek négy csoportba oszlanak . A büntetések mindegyike a versenybíró hatáskörébe tartozik, ugyanakkor a DT fenntartja magának a saját kezdeményezésre történő beavatkozás jogát.  
+A versenyszabályzat különböző szakaszaiban található vétségek és büntetések összefoglalását a  táblázata tartalmazza. Ezek négy csoportba oszlanak . A büntetések mindegyike a versenybíró hatáskörébe tartozik, ugyanakkor a Szervező Team fenntartja magának a saját kezdeményezésre történő beavatkozás jogát.  
   
 
 #### Az első csoportba tartozó vétségek  
