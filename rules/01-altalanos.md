@@ -426,7 +426,7 @@ idéz elő (erőszak vagy brutalitás nélkül) (V.ö.: Nyert vagy vesztett ter�
 A jelen szakaszban hivatkozott rendszeresen testérintkezéssel végződő fless támadás nem összetévesztendő az ellenfelet meglökő összeütközést eredményező fless támadással amely szándékos brutalitásként értékelendő, és ekként is büntetendő a második csoportba tartozó vétség minden fegyvernemben.  
 
 ##### GEN-6.5.2  
-Ezzel ellentétben, a futással (akár az ellenfélen testérintkezés nélkül túlhaladva) végrehajtott fless támadás nem tilos. A versenybírónak nem szabad túl hamar "Állj"-t kiáltania, hogy az esetleges riposzt érvényes maradhasson. Ilyen, az ellenfelet el nem találó, futással végrehajtott fless támadás esetén ha a flesst végrehajtó vívó átlépi a pást oldalhatárát, találatot kapottnak tekintendő (V.ö.: A küzdőtér határvonala).  
+Ezzel ellentétben, a futással (akár az ellenfélen testérintkezés nélkül túlhaladva) végrehajtott fless támadás nem tilos. A versenybírónak nem szabad túl hamar "Állj"-t kiáltania, hogy az esetleges riposzt érvényes maradhasson. Ilyen, az ellenfelet el nem találó, futással végrehajtott fless támadás esetén ha a flesst végrehajtó vívó átlépi a pást határát, találatot kapottnak tekintendő (V.ö.: A küzdőtér határvonala).  
 
 ### Elhajlás (a találati felület áthelyezése) és túlhaladás  
 <span id="GEN-6.6"></span>  
@@ -664,7 +664,7 @@ A szervező a verseny hatékony lebonyolítása érdekében a csoportfordulóban
 <span id="GEN-6.11"></span>  
 
 ##### GEN-6.11.1  
-Nyakcsavarás, ellenfél felemelése, teljes ízület feszítés, kisízület feszítés, nagyívű dobások és más potenciálisan veszélyes birkózó technikák, ütések, rúgások, erőszakos lökések valamint a fegyver dobása szigorúan tiltott.  
+Nyakcsavarás, ellenfél felemelése, teljes ízület feszítés, kisízület feszítés, nagyívű dobások és más potenciálisan veszélyes birkózó technikák, ütések (beleértve fejelés, térdelés, könyökölés), rúgások, erőszakos lökések valamint a fegyver dobása szigorúan tiltott.  
 
 ##### GEN-6.11.2  
 Tilos a túlzott erőkifejtés, brutalitás és a szükségtelen erőszak.  
